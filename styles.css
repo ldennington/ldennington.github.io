@@ -5,8 +5,8 @@ body {
 }
   
 h1, h2 {
-    font-weight: lighter;
     color: #B73275;
+    font-weight: lighter;
 }
 
 p, li {
