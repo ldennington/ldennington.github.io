@@ -17,6 +17,10 @@ li {
     padding: 1.5px;
 }
 
+.image {
+    text-align: center;
+}
+
 .container {
     display: flex;
     align-items: left;
@@ -25,9 +29,10 @@ li {
 
 #me {
     max-width: 100%;
-    padding: 15px;
+    padding: 25px;
     width: 150px;
     height: 200px;
+    justify-content: center;
 }
 
 #meme {
