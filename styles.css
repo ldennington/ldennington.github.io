@@ -1,0 +1,38 @@
+body {
+    background-color: #E8C7C8;
+    color: #6C6868;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+  
+h1, h2 {
+    font-weight: lighter;
+    color: #B73275;
+}
+
+p, li {
+    inline-size: 500px;
+}
+
+li {
+    padding: 1.5px;
+}
+
+.container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+}
+
+#me {
+    max-width: 100%;
+    padding: 15px;
+    width: 150px;
+    height: 200px;
+}
+
+#meme {
+    width: 200px;
+    height: 200px;
+    justify-content: left;
+    padding: 20;
+}
